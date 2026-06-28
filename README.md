@@ -51,6 +51,7 @@ A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation mode
 - 🎮 **[Midjourney Explore](https://www.midjourney.com/explore):** Interactive gallery and web generation.
 - 🧪 **[Stability AI Platform](https://stability.ai/):** API access for SD3 and SDXL.
 - 🎨 **[Seedream AI Studio](https://seedream4.video):** Multi-model image generation using Seedream 5.0/4.5/4.0 (ByteDance), with one-click Kling 2.1 video animation. Free tier available.
+- 🖼️ **[igly.ai](https://igly.ai):** AI image editing platform for background removal, inpainting, generative fill, and upscaling.
 
 ---
 
