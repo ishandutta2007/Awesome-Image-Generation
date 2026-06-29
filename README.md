@@ -29,6 +29,15 @@ A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation mode
 - 🔬 **[r/MachineLearning](https://www.reddit.com/r/MachineLearning/):** Deep dives into Rectified Flow and Diffusion Transformer (DiT) papers.
 - 🔗 **[The rise of ComfyUI](https://www.reddit.com/r/StableDiffusion/):** Why node-based pipelines are the future of professional AI art.
 
+## 📁 Related Open-Source GitHub Projects
+
+| Repository | Stars | Description |
+| :--- | :---: | :--- |
+| **[generative-models](https://github.com/Stability-AI/generative-models)** | [![Stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white)](https://github.com/Stability-AI/generative-models/stargazers) | Generative Models by Stability AI (Stable Diffusion 3.5, etc.) |
+| **[flux](https://github.com/black-forest-labs/flux)** | [![Stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social&color=white)](https://github.com/black-forest-labs/flux/stargazers) | Official repo of FLUX.1 models by Black Forest Labs |
+| **[Janus](https://github.com/deepseek-ai/Janus)** | [![Stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social&color=white)](https://github.com/deepseek-ai/Janus/stargazers) | DeepSeek's unified autoregressive framework for multimodal understanding and generation |
+| **[UNIT](https://github.com/mingyuliutw/UNIT)** | [![Stars](https://img.shields.io/github/stars/mingyuliutw/UNIT?style=social&color=white)](https://github.com/mingyuliutw/UNIT/stargazers) | Unsupervised Image-to-Image Translation networks |
+
 ---
 
 ## 📊 SOTA Model Comparison (GitHub & Hugging Face)
