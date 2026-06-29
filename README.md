@@ -31,13 +31,13 @@ A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation mode
 
 ## ☁️ Related Cloud-Hosted SaaS Products
 
-| Product | Description | Pricing | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[Midjourney](https://www.midjourney.com/)** | High-quality artistic image generation. | Paid plans start at $10/month | None |
-| **[DALL-E 3 (OpenAI)](https://openai.com/index/dall-e-3/)** | Highly detailed and prompt-adherent image generation via ChatGPT. | Included in ChatGPT Plus ($20/month) or via API (starts at $0.040/image) | None |
-| **[Seedream AI Studio](https://seedream4.video)** | Multi-model image generation with one-click Kling 2.1 video animation. | Paid plans start at $9.9/month | Daily free credits |
-| **[igly.ai](https://igly.ai)** | AI image editing platform (background removal, inpainting, upscaling). | Paid plans start at $12/month | Limited free credits |
-| **[Recraft V3](https://www.recraft.ai/)** | Vector and raster AI image generator for designers. | Paid plans start at $10/month | Limited credits (public creations) |
+| Product | Description | Pricing | Free Tier Limit | Company Size (Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Seedream AI Studio](https://seedream4.video)** | Multi-model image generation with one-click Kling 2.1 video animation. | Paid plans start at $9.9/month | Daily free credits | ~$225B (ByteDance backing) |
+| **[DALL-E 3 (OpenAI)](https://openai.com/index/dall-e-3/)** | Highly detailed and prompt-adherent image generation via ChatGPT. | Included in ChatGPT Plus ($20/month) or via API (starts at $0.040/image) | None | ~$150B valuation |
+| **[Midjourney](https://www.midjourney.com/)** | High-quality artistic image generation. | Paid plans start at $10/month | None | ~$200M annual revenue |
+| **[Recraft V3](https://www.recraft.ai/)** | Vector and raster AI image generator for designers. | Paid plans start at $10/month | Limited credits (public creations) | ~$50M valuation |
+| **[igly.ai](https://igly.ai)** | AI image editing platform (background removal, inpainting, upscaling). | Paid plans start at $12/month | Limited free credits | <$5M valuation (Seed stage) |
 
 ---
 
