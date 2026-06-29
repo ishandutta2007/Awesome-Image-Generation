@@ -38,12 +38,15 @@ A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation mode
 
 | Model Name | Year | Pretrained Weights | Codebase | Research Paper | Quality | License |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Flux.2 Pro** 👑 | 2026 | API Only | Proprietary | [📄 Report](https://bfl.ai/) | **SOTA** | Commercial |
+| **Midjourney V8.1** 🖌️ | 2026 | Web/Discord | Proprietary | -- | **SOTA** | Proprietary |
+| **GPT-Image-1** 🧠 | 2026 | API Only | Proprietary | [📄 Blog](https://openai.com/blog) | **SOTA** | Proprietary |
+| **Janus-Pro (7B)** 🌌 | 2025 | [🤗 HF Hub](https://huggingface.co/deepseek-ai/Janus-Pro-7B) | [💻 GitHub](https://github.com/deepseek-ai/Janus) | [📄 2501.14691](https://arxiv.org/abs/2501.14691) | A+ | MIT |
+| **Midjourney V7** 🖌️ | 2025 | Web/Discord | Proprietary | -- | **SOTA** | Proprietary |
 | **Flux.1 [schnell]** 👑 | 2024 | [🤗 HF Hub](https://huggingface.co/black-forest-labs/FLUX.1-schnell) | [💻 GitHub](https://github.com/black-forest-labs/flux) | [📄 Report](https://bfl.ai/) | **SOTA** | Apache 2.0 |
 | **Stable Diffusion 3.5** ⚡ | 2024 | [🤗 HF Hub](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) | [💻 GitHub](https://github.com/Stability-AI/generative-models) | [📄 2403.03206](https://arxiv.org/abs/2403.03206) | **SOTA** | Community |
-| **DALL-E 3** 🧠 | 2023 | API Only | Proprietary | [📄 System Card](https://openai.com/index/dall-e-3-system-card/) | **SOTA** | Proprietary |
-| **Midjourney V7** 🖌️ | 2025 | Web/Discord | Proprietary | -- | **SOTA** | Proprietary |
-| **Janus-Pro (7B)** 🌌 | 2025 | [🤗 HF Hub](https://huggingface.co/deepseek-ai/Janus-Pro-7B) | [💻 GitHub](https://github.com/deepseek-ai/Janus) | [📄 2501.14691](https://arxiv.org/abs/2501.14691) | A+ | MIT |
 | **Recraft V3** 📐 | 2024 | API/Web | Proprietary | -- | A+ | Commercial |
+| **DALL-E 3** 🧠 | 2023 | API Only | Proprietary | [📄 System Card](https://openai.com/index/dall-e-3-system-card/) | **SOTA** | Proprietary |
 | **UNIT (Legacy)** 🏛️ | 2017 | [💻 Model](https://github.com/mingyuliutw/UNIT/blob/master/TUTORIAL.md#pretrained-models) | [💻 Code](https://github.com/mingyuliutw/UNIT) | [📄 1703.00848](https://arxiv.org/abs/1703.00848) | B | CC Non-Comm |
 
 ---
