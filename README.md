@@ -31,13 +31,13 @@ A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation mode
 
 ## ☁️ Related Cloud-Hosted SaaS Products
 
-| Product | Description | Pricing & Free Tier Limits |
-| :--- | :--- | :--- |
-| **[Midjourney](https://www.midjourney.com/)** | High-quality artistic image generation. | Paid plans start at $10/month. No free tier available. |
-| **[DALL-E 3 (OpenAI)](https://openai.com/index/dall-e-3/)** | Highly detailed and prompt-adherent image generation via ChatGPT. | Included in ChatGPT Plus ($20/month) or via API (starts at $0.040/image). No permanent free tier. |
-| **[Seedream AI Studio](https://seedream4.video)** | Multi-model image generation with one-click Kling 2.1 video animation. | Free tier available (daily credits). Paid plans start at $9.9/month. |
-| **[igly.ai](https://igly.ai)** | AI image editing platform (background removal, inpainting, upscaling). | Free tier available (limited free credits). Paid plans start at $12/month. |
-| **[Recraft V3](https://www.recraft.ai/)** | Vector and raster AI image generator for designers. | Free tier available (designs are public, limited credits). Paid plans start at $10/month. |
+| Product | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Midjourney](https://www.midjourney.com/)** | High-quality artistic image generation. | Paid plans start at $10/month | None |
+| **[DALL-E 3 (OpenAI)](https://openai.com/index/dall-e-3/)** | Highly detailed and prompt-adherent image generation via ChatGPT. | Included in ChatGPT Plus ($20/month) or via API (starts at $0.040/image) | None |
+| **[Seedream AI Studio](https://seedream4.video)** | Multi-model image generation with one-click Kling 2.1 video animation. | Paid plans start at $9.9/month | Daily free credits |
+| **[igly.ai](https://igly.ai)** | AI image editing platform (background removal, inpainting, upscaling). | Paid plans start at $12/month | Limited free credits |
+| **[Recraft V3](https://www.recraft.ai/)** | Vector and raster AI image generator for designers. | Paid plans start at $10/month | Limited credits (public creations) |
 
 ---
 
