@@ -29,6 +29,18 @@ A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation mode
 - 🔬 **[r/MachineLearning](https://www.reddit.com/r/MachineLearning/):** Deep dives into Rectified Flow and Diffusion Transformer (DiT) papers.
 - 🔗 **[The rise of ComfyUI](https://www.reddit.com/r/StableDiffusion/):** Why node-based pipelines are the future of professional AI art.
 
+## ☁️ Related Cloud-Hosted SaaS Products
+
+| Product | Description | Pricing & Free Tier Limits |
+| :--- | :--- | :--- |
+| **[Midjourney](https://www.midjourney.com/)** | High-quality artistic image generation. | Paid plans start at $10/month. No free tier available. |
+| **[DALL-E 3 (OpenAI)](https://openai.com/index/dall-e-3/)** | Highly detailed and prompt-adherent image generation via ChatGPT. | Included in ChatGPT Plus ($20/month) or via API (starts at $0.040/image). No permanent free tier. |
+| **[Seedream AI Studio](https://seedream4.video)** | Multi-model image generation with one-click Kling 2.1 video animation. | Free tier available (daily credits). Paid plans start at $9.9/month. |
+| **[igly.ai](https://igly.ai)** | AI image editing platform (background removal, inpainting, upscaling). | Free tier available (limited free credits). Paid plans start at $12/month. |
+| **[Recraft V3](https://www.recraft.ai/)** | Vector and raster AI image generator for designers. | Free tier available (designs are public, limited credits). Paid plans start at $10/month. |
+
+---
+
 ## 📁 Related Open-Source GitHub Projects
 
 | Repository | Stars | Description |
