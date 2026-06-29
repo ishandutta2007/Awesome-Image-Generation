@@ -1,15 +1,35 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Image Generation Landscape - SOTA AI Models & Tools" width="100%">
+</p>
+
 # 🎨 Image Generation Landscape: The Ultimate Guide to SOTA AI Models 🚀
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Image-Generation-Landscape?style=for-the-badge&color=gold)](https://github.com/ishandutta2007/Image-Generation-Landscape/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Image-Generation-Landscape?style=for-the-badge&color=blue)](https://github.com/ishandutta2007/Image-Generation-Landscape/network/members)
-[![License](https://img.shields.io/github/license/ishandutta2007/Image-Generation-Landscape?style=for-the-badge&color=green)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-<a href="https://github.com/ishandutta2007">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-</a>
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome Collection"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord Community" /></a>
+  <a href="https://github.com/ishandutta2007/Image-Generation-Landscape/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Image-Generation-Landscape?style=for-the-badge&color=gold" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Image-Generation-Landscape/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Image-Generation-Landscape?style=for-the-badge&color=blue" alt="GitHub forks"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Image-Generation-Landscape?style=for-the-badge&color=green" alt="License"/></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation models**, Generative AI research, and text-to-image tools. Stay updated with the latest advancements in **Stable Diffusion, FLUX.1, Midjourney, and DALL-E**.
+---
+
+## 🌟 Overview
+
+Welcome to the **Image Generation Landscape**—a comprehensive, curated repository of **State-of-the-Art (SOTA) Image Generation models**, Generative AI research, and text-to-image tools. This resource is designed for researchers, developers, and AI artists to stay updated with the latest advancements in **Stable Diffusion, FLUX.1, Midjourney, DALL-E, and open-weights models**.
+
+### 🔍 Table of Contents
+- [☁️ Cloud-Hosted SaaS Products](#️-cloud-hosted-saas-products)
+- [📁 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📊 SOTA Model Comparison (GitHub & Hugging Face)](#-sota-model-comparison-github--hugging-face)
+- [🛠️ Tools, Demos & Platforms](#️-tools-demos--platforms)
+- [📢 News & Major Milestones (2024-2026)](#-news--major-milestones-2024-2026)
+- [🌐 Reddit & Community Hubs](#-reddit--community-hubs)
+- [📚 Research & Continuous Learning](#-research--continuous-learning)
+
+---
 
 ## ☁️ Cloud-Hosted SaaS Products
 

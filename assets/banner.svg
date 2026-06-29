@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07090e" />
+      <stop offset="50%" stop-color="#0f111a" />
+      <stop offset="100%" stop-color="#1b0f24" />
+    </linearGradient>
+
+    <!-- Glowing Orbs -->
+    <radialGradient id="glowBlue" cx="30%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#1e90ff" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#00ffff" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#07090e" stop-opacity="0" />
+    </radialGradient>
+    
+    <radialGradient id="glowPurple" cx="80%" cy="60%" r="50%">
+      <stop offset="0%" stop-color="#8a2be2" stop-opacity="0.35" />
+      <stop offset="50%" stop-color="#ff00ff" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#07090e" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowOrange" cx="50%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#ff4500" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#07090e" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Text Gradients -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#4facfe" />
+      <stop offset="100%" stop-color="#00f2fe" />
+    </linearGradient>
+
+    <linearGradient id="highlightGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f355da" />
+      <stop offset="100%" stop-color="#7000ff" />
+    </linearGradient>
+
+    <!-- Card/Mesh Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255, 255, 255, 0.03)" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGrad)" />
+
+  <!-- Ambient Glows -->
+  <circle cx="360" cy="160" r="400" fill="url(#glowBlue)" />
+  <circle cx="960" cy="240" r="350" fill="url(#glowPurple)" />
+  <circle cx="600" cy="120" r="250" fill="url(#glowOrange)" />
+
+  <!-- Grid overlay -->
+  <rect width="1200" height="400" fill="url(#grid)" />
+
+  <!-- Decorative Abstract Wave/Line Art -->
+  <path d="M-100,280 C300,100 500,450 900,220 C1100,100 1200,200 1300,180" fill="none" stroke="url(#textGrad)" stroke-width="2" opacity="0.3" />
+  <path d="M-100,300 C300,150 480,480 880,240 C1080,120 1180,220 1280,200" fill="none" stroke="url(#highlightGrad)" stroke-width="1.5" opacity="0.2" />
+
+  <!-- Floating Sparkles / Particles -->
+  <!-- Spark 1 -->
+  <path d="M220,120 L223,127 L230,130 L223,133 L220,140 L217,133 L210,130 L217,127 Z" fill="#00ffff" opacity="0.7" />
+  <!-- Spark 2 -->
+  <path d="M980,80 L982,85 L987,87 L982,89 L980,94 L978,89 L973,87 L978,85 Z" fill="#ff00ff" opacity="0.8" />
+  <!-- Spark 3 -->
+  <path d="M680,280 L681,283 L684,284 L681,285 L680,288 L679,285 L676,284 L679,283 Z" fill="#ffffff" opacity="0.9" />
+  <!-- Spark 4 -->
+  <path d="M150,280 L152,285 L157,287 L152,289 L150,294 L148,289 L143,287 L148,285 Z" fill="#4facfe" opacity="0.6" />
+
+  <!-- Central Content -->
+  <g transform="translate(600, 190)" text-anchor="middle">
+    <!-- Icon/Badge above title -->
+    <g transform="translate(0, -90)">
+      <!-- Hexagonal background -->
+      <polygon points="0,-25 22,-12 22,12 0,25 -22,12 -22,-12" fill="url(#highlightGrad)" opacity="0.8" />
+      <!-- Star icon inside -->
+      <path d="M0,-12 L3,-3 L12,-3 L5,2 L8,11 L0,6 L-8,11 L-5,2 L-12,-3 L-3,-3 Z" fill="#ffffff" />
+    </g>
+
+    <!-- Main Title -->
+    <text font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="52" fill="#ffffff" letter-spacing="4" y="-20">
+      IMAGE GENERATION
+    </text>
+    
+    <text font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="52" fill="url(#textGrad)" letter-spacing="8" y="35">
+      LANDSCAPE
+    </text>
+
+    <!-- Subtitle -->
+    <text font-family="system-ui, -apple-system, sans-serif" font-weight="400" font-size="18" fill="#a0aec0" letter-spacing="2" y="85">
+      State-of-the-Art (SOTA) Models, Tools &amp; Resources
+    </text>
+
+    <!-- Small Pills / Badges in Banner -->
+    <g transform="translate(0, 125)">
+      <!-- Flux Pill -->
+      <g transform="translate(-180, 0)">
+        <rect x="-50" y="-12" width="100" height="24" rx="12" fill="rgba(255, 255, 255, 0.05)" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1"/>
+        <text font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="11" fill="#e2e8f0" y="4" text-anchor="middle">FLUX.1</text>
+      </g>
+      <!-- SD 3.5 Pill -->
+      <g transform="translate(-60, 0)">
+        <rect x="-65" y="-12" width="130" height="24" rx="12" fill="rgba(255, 255, 255, 0.05)" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1"/>
+        <text font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="11" fill="#e2e8f0" y="4" text-anchor="middle">STABLE DIFFUSION</text>
+      </g>
+      <!-- Midjourney Pill -->
+      <g transform="translate(75, 0)">
+        <rect x="-65" y="-12" width="130" height="24" rx="12" fill="rgba(255, 255, 255, 0.05)" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1"/>
+        <text font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="11" fill="#e2e8f0" y="4" text-anchor="middle">MIDJOURNEY V7</text>
+      </g>
+      <!-- Open Source Pill -->
+      <g transform="translate(195, 0)">
+        <rect x="-55" y="-12" width="110" height="24" rx="12" fill="rgba(255, 255, 255, 0.05)" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1"/>
+        <text font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="11" fill="#e2e8f0" y="4" text-anchor="middle">OPEN WEIGHTS</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Border -->
+  <rect x="15" y="15" width="1170" height="370" rx="8" fill="none" stroke="rgba(255, 255, 255, 0.05)" stroke-width="2" />
+</svg>
