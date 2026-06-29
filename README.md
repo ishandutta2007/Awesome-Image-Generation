@@ -11,24 +11,6 @@
 
 A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation models**, Generative AI research, and text-to-image tools. Stay updated with the latest advancements in **Stable Diffusion, FLUX.1, Midjourney, and DALL-E**.
 
----
-
-## 📢 News & Major Milestones (2024-2026)
-
-- **🔥 [FLUX.1 by Black Forest Labs](https://bfl.ai/) (Aug 2024):** The new benchmark for open-weights models. Features a 12B parameter **Rectified Flow Transformer** for elite prompt adherence.
-- **🎨 [Midjourney V7](https://www.midjourney.com/) (April 2025):** Revolutionizing consistency with **Omni Reference** and blazing speed with **Draft Mode**.
-- **⚡ [Stable Diffusion 3.5](https://stability.ai/news/introducing-stable-diffusion-3-5) (Oct 2024):** Stability AI's flagship release featuring **MMDiT architecture**, perfect for local fine-tuning and LoRA development.
-- **🤖 [Google Imagen 4](https://deepmind.google/technologies/imagen-3/) (2025):** Professional-grade photorealism and advanced typography, now native in the Gemini ecosystem.
-- **💬 [OpenAI GPT-4o Multimodal](https://openai.com/index/hello-gpt-4o/) (2024):** Native, conversational image generation and iterative editing within ChatGPT.
-
----
-
-## 🌐 Reddit & Community Hubs
-
-- 🛠️ **[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/):** The heart of local AI generation and ComfyUI workflows.
-- 🔬 **[r/MachineLearning](https://www.reddit.com/r/MachineLearning/):** Deep dives into Rectified Flow and Diffusion Transformer (DiT) papers.
-- 🔗 **[The rise of ComfyUI](https://www.reddit.com/r/StableDiffusion/):** Why node-based pipelines are the future of professional AI art.
-
 ## ☁️ Related Cloud-Hosted SaaS Products
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Valuation / Revenue) |
@@ -74,6 +56,24 @@ A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation mode
 - 🧪 **[Stability AI Platform](https://stability.ai/):** API access for SD3 and SDXL.
 - 🎨 **[Seedream AI Studio](https://seedream4.video):** Multi-model image generation using Seedream 5.0/4.5/4.0 (ByteDance), with one-click Kling 2.1 video animation. Free tier available.
 - 🖼️ **[igly.ai](https://igly.ai):** AI image editing platform for background removal, inpainting, generative fill, and upscaling.
+
+---
+
+## 📢 News & Major Milestones (2024-2026)
+
+- **🔥 [FLUX.1 by Black Forest Labs](https://bfl.ai/) (Aug 2024):** The new benchmark for open-weights models. Features a 12B parameter **Rectified Flow Transformer** for elite prompt adherence.
+- **🎨 [Midjourney V7](https://www.midjourney.com/) (April 2025):** Revolutionizing consistency with **Omni Reference** and blazing speed with **Draft Mode**.
+- **⚡ [Stable Diffusion 3.5](https://stability.ai/news/introducing-stable-diffusion-3-5) (Oct 2024):** Stability AI's flagship release featuring **MMDiT architecture**, perfect for local fine-tuning and LoRA development.
+- **🤖 [Google Imagen 4](https://deepmind.google/technologies/imagen-3/) (2025):** Professional-grade photorealism and advanced typography, now native in the Gemini ecosystem.
+- **💬 [OpenAI GPT-4o Multimodal](https://openai.com/index/hello-gpt-4o/) (2024):** Native, conversational image generation and iterative editing within ChatGPT.
+
+---
+
+## 🌐 Reddit & Community Hubs
+
+- 🛠️ **[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/):** The heart of local AI generation and ComfyUI workflows.
+- 🔬 **[r/MachineLearning](https://www.reddit.com/r/MachineLearning/):** Deep dives into Rectified Flow and Diffusion Transformer (DiT) papers.
+- 🔗 **[The rise of ComfyUI](https://www.reddit.com/r/StableDiffusion/):** Why node-based pipelines are the future of professional AI art.
 
 ---
 
