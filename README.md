@@ -11,7 +11,7 @@
 
 A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation models**, Generative AI research, and text-to-image tools. Stay updated with the latest advancements in **Stable Diffusion, FLUX.1, Midjourney, and DALL-E**.
 
-## ☁️ Related Cloud-Hosted SaaS Products
+## ☁️ Cloud-Hosted SaaS Products
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Valuation / Revenue) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation mode
 
 ---
 
-## 📁 Related Open-Source GitHub Projects
+## 📁 Open-Source GitHub Projects
 
 | Repository | Stars | Description |
 | :--- | :---: | :--- |
