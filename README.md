@@ -81,6 +81,7 @@ Welcome to the **Image Generation Landscape**—a comprehensive, curated reposit
 - 🎨 **[Seedream AI Studio](https://seedream4.video):** Multi-model image generation using Seedream 5.0/4.5/4.0 (ByteDance), with one-click Kling 2.1 video animation. Free tier available.
 - 🧩 **[RunAPI GPT Image 2 SDK](https://github.com/runapi-ai/gpt-image-2-sdk):** SDKs for building GPT Image 2 image-generation API workflows.
 - 🖼️ **[igly.ai](https://igly.ai):** AI image editing platform for background removal, inpainting, generative fill, and upscaling.
+- ⚡ **[Emu](https://image.tinchak0207.xyz):** Online GPT Image 2 & Nano Banana Pro generator - no relay station setup or API key required, sign in and download.
 
 ---
 
