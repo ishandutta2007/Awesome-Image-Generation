@@ -41,6 +41,7 @@ Welcome to the **Image Generation Landscape**—a comprehensive, curated reposit
 | **[Recraft V3](https://www.recraft.ai/)** | Vector and raster AI image generator for designers. | Paid plans start at $10/month | Limited credits (public creations) | ~$50M valuation |
 | **[igly.ai](https://igly.ai)** | AI image editing platform (background removal, inpainting, upscaling). | Paid plans start at $12/month | Limited free credits | <$5M valuation (Seed stage) |
 | **[DaoXE](https://daoxe.com)** | Multi-model multi-protocol AI API gateway with OpenAI-compatible image generation plus chat protocols; public examples at [DaoXE-AI](https://github.com/seven7763/DaoXE-AI). Not available in mainland China. | Usage-based API | Account-dependent | Independent |
+| **[PixGT](https://pixgt.cn)** | E-commerce product imagery: scene photos from white-background shots, plus clothing try-on, model swapping and accessory try-on. | Credit-based, no public price list | Free credits on signup | Early-stage startup (Shenzhen) |
 
 ---
 
