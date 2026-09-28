@@ -36,6 +36,7 @@ Welcome to the **Image Generation Landscape**—a comprehensive, curated reposit
 | Product | Description | Pricing | Free Tier Limit | Company Size (Valuation / Revenue) |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Seedream AI Studio](https://seedream4.video)** | Multi-model image generation with one-click Kling 2.1 video animation. | Paid plans start at $9.9/month | Daily free credits | ~$225B (ByteDance backing) |
+| **[Raphael AI](https://raphael.app)** | Free unlimited AI image generator from text prompts. | Free | Unlimited free core generation | Independent |
 | **[DALL-E 3 (OpenAI)](https://openai.com/index/dall-e-3/)** | Highly detailed and prompt-adherent image generation via ChatGPT. | Included in ChatGPT Plus ($20/month) or via API (starts at $0.040/image) | None | ~$150B valuation |
 | **[Midjourney](https://www.midjourney.com/)** | High-quality artistic image generation. | Paid plans start at $10/month | None | ~$200M annual revenue |
 | **[Recraft V3](https://www.recraft.ai/)** | Vector and raster AI image generator for designers. | Paid plans start at $10/month | Limited credits (public creations) | ~$50M valuation |
