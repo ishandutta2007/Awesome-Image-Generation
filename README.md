@@ -42,6 +42,7 @@ Welcome to the **Image Generation Landscape**—a comprehensive, curated reposit
 | **[igly.ai](https://igly.ai)** | AI image editing platform (background removal, inpainting, upscaling). | Paid plans start at $12/month | Limited free credits | <$5M valuation (Seed stage) |
 | **[DaoXE](https://daoxe.com)** | Multi-model multi-protocol AI API gateway with OpenAI-compatible image generation plus chat protocols; public examples at [DaoXE-AI](https://github.com/seven7763/DaoXE-AI). Not available in mainland China. | Usage-based API | Account-dependent | Independent |
 | **[PixGT](https://pixgt.cn)** | E-commerce product imagery: scene photos from white-background shots, plus clothing try-on, model swapping and accessory try-on. | Credit-based, no public price list | Free credits on signup | Early-stage startup (Shenzhen) |
+| **[UberLLM](https://uberllm.dev/docs/media)** | One API key for image models (GPT Image, Nano Banana, Imagen 4, Flux 2, Seedream, Ideogram V3, Qwen Image, Recraft V3, including edit models) plus text, video, music and speech models. OpenAI-compatible `/v1/images/generations` and `/v1/images/edits`; failed requests are not billed. | Pay-as-you-go per image, prepaid from $5 | None | Undisclosed |
 
 ---
 
