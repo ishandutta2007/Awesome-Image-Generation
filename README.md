@@ -110,6 +110,7 @@ Welcome to the **Image Generation Landscape**—a comprehensive, curated reposit
 - 📖 **[Hugging Face Daily Papers](https://huggingface.co/papers):** The pulse of the AI research community.
 - 🔎 **[ArXiv: Computer Vision](https://arxiv.org/list/cs.CV/recent):** Latest pre-prints in image synthesis.
 - 🧠 **[Arxiv-sanity-lite](https://arxiv-sanity-lite.com/):** A better way to browse and search AI papers.
+- 🍌 **[Nano Banana Reference](https://www.nano-banana.live/):** Independent guides to Google's Nano Banana (Gemini image) API, how image-model Elo leaderboards work, and VRAM needs for open-weight editors like Qwen-Image-Edit and HunyuanImage.
 
 ---
 
