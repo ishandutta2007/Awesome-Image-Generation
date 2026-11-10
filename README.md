@@ -43,6 +43,7 @@ Welcome to the **Image Generation Landscape**—a comprehensive, curated reposit
 | **[DaoXE](https://daoxe.com)** | Multi-model multi-protocol AI API gateway with OpenAI-compatible image generation plus chat protocols; public examples at [DaoXE-AI](https://github.com/seven7763/DaoXE-AI). Not available in mainland China. | Usage-based API | Account-dependent | Independent |
 | **[PixGT](https://pixgt.cn)** | E-commerce product imagery: scene photos from white-background shots, plus clothing try-on, model swapping and accessory try-on. | Credit-based, no public price list | Free credits on signup | Early-stage startup (Shenzhen) |
 | **[Photoshoot](https://photoshoot.app/?utm_source=github_com&utm_medium=backlink&utm_campaign=202609_w7_backlinks)** | E-commerce AI commercial photography: studio-grade product shots, model/OOTD photos, and campaign imagery from a single product photo. | Freemium; paid plans scale with volume | 30 free credits on signup | Early-stage startup |
+| **[Imagera](https://imagera.ai)** | Multi-model image and video studio; saved Character IDs keep one face, product or place consistent across images, plus product photos from a single shot. | Paid plans start at $19.99/month | None | Undisclosed (startup) |
 
 ---
 
