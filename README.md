@@ -84,6 +84,7 @@ Welcome to the **Image Generation Landscape**—a comprehensive, curated reposit
 - 🧩 **[RunAPI GPT Image 2 SDK](https://github.com/runapi-ai/gpt-image-2-sdk):** SDKs for building GPT Image 2 image-generation API workflows.
 - 🖼️ **[igly.ai](https://igly.ai):** AI image editing platform for background removal, inpainting, generative fill, and upscaling.
 - ⚡ **[Eimu](https://eimu.art):** Online GPT Image 2 & Nano Banana Pro generator - no relay station setup or API key required, sign in and download.
+- 🖌️ **[Seedream 5.5 Studio](https://seedream55.io):** Browser-based text-to-image generator with a free daily tier, no install required.
 
 ---
 
